@@ -1,4 +1,4 @@
-$i = 31
+$i = 45
 do {
     Write-Host $i
     Test-Connection localhost -Count 1 | Out-File -FilePath PingLog.txt –Append
