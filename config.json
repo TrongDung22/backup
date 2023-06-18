@@ -3,7 +3,7 @@
     "log_interval": 200,
     "eval_interval": 2000,
     "seed": 1234,
-    "epochs": 4751,
+    "epochs": 1842,
     "learning_rate": 0.0001,
     "betas": [
       0.8,
